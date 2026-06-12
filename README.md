@@ -1,7 +1,7 @@
 
 # Hi 👋🏾, I'm Harodi Kadima
 
-🚀 **Front-end Junior | JavaScript • HTML • CSS • MySQL**  
+🚀 **Front-end | JavaScript • HTML • CSS • MySQL**  
 🇦🇴 Angola
 
 Construindo projetos práticos, páginas responsivas e sistemas que trazem soluções reais.
