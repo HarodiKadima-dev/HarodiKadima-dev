@@ -1,14 +1,13 @@
-
 # Hi 👋🏾, I'm Harodi Kadima
 
-🚀 **Front-end | JavaScript • HTML • CSS • MySQL**  
+🚀 **Desenvolvedor Web | JavaScript • HTML • CSS • MySQL**  
 🇦🇴 Angola
 
 Construindo projetos práticos, páginas responsivas e sistemas que trazem soluções reais.
 
 > *"Transformar ideias em código é a melhor forma de dar vida ao que imaginamos"*
 
-Gosto de transformar ideias em código e aprender coisas novas todos os dias.
+Gosto de aprender continuamente e unir desenvolvimento a outros conhecimentos da área tecnológica.
 
 ---
 
@@ -31,23 +30,38 @@ Gosto de transformar ideias em código e aprender coisas novas todos os dias.
 
 ---
 
-## 🛠️ Tecnologias que uso
+## 🛠️ Tecnologias e conhecimentos
 
+### 💻 Desenvolvimento
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### 🗄️ Banco de Dados
+✅ Domínio de **MySQL**  
+✅ Comandos e estrutura **SQL**  
+✅ Primeiro trabalho prático realizado nesta área  
+✅ Projeto: **Sistema de Cadastro Escolar** — estrutura, tabelas, consultas e fluxo completo
+
+### 📡 Redes de Computadores — conceitos fundamentais
+✅ Endereçamento **IP e máscaras de sub‑rede**  
+✅ Noções de protocolos e funcionamento básico  
+✅ Atribuição e configuração de endereços  
+✅ Conceitos introdutórios mas sólidos para compreender infra‑estrutura
+
 ---
 
 ## 🚀 Projetos que já desenvolvi
 
-- 📱 **Menu Africel**
-- 🏢 **Golden Hub**
-- 💼 **Kadima Services**
-- ✅ **To Do List**
+- 📱 **Menu Africel** — lógica de navegação em JavaScript puro
+- ⚽ **Golden Hub** — vitrine de conquistas no futebol
+- 💼 **Kadima Services** — plataforma de produtos e pedidos
+- 🧑🏫 **Sistema de Cadastro Escolar** — com estrutura completa em MySQL
+- ✅ **Lista de Tarefas**
 - 🧮 **Calculadora**
+- 📲 **Gerador de Código QR** — com API, entrada por tecla Enter e download
 - E outros projetos em constante evolução!
 
 ---
@@ -61,4 +75,4 @@ Gosto de transformar ideias em código e aprender coisas novas todos os dias.
 
 ---
 
-💡 *"Código limpo é a base de qualquer solução que funciona e cresce"*
+💡 *“Código limpo é a base de qualquer solução que funciona e cresce — e conhecer redes e bancos de dados torna tudo mais sólido”*
