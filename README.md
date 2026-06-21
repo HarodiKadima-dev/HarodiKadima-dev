@@ -62,8 +62,9 @@ Gosto de aprender continuamente e unir desenvolvimento a outros conhecimentos da
 - ✅ **Lista de Tarefas**
 - 🧮 **Calculadora**
 - 📲 **Gerador de Código QR** — com API, entrada por tecla Enter e download
-- E outros projetos em constante evolução!
 
+- **Burger-Delicious** - Cardápio Online 
+-E outros projetos em constante evolução.
 ---
 
 ## 📊 Minhas estatísticas
