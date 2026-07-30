@@ -38,7 +38,8 @@ Gosto de aprender continuamente e unir desenvolvimento a outros conhecimentos da
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🗄️ Banco de Dados
@@ -61,10 +62,11 @@ Gosto de aprender continuamente e unir desenvolvimento a outros conhecimentos da
 - ⚽ **Golden Hub** — vitrine de conquistas no futebol
 - 💼 **Kadima Services** — plataforma de produtos e pedidos
 - 🧑🏫 **Sistema de Cadastro Escolar** — com estrutura completa em MySQL
-- ✅ **Gestor de Tarefas Avançado** — com adicionar, editar, excluir, filtrar, pesquisar e armazenamento total no LocalStorage
-- 🍔 **Só Sabores — Landing Page** — página moderna e responsiva para hambúrgueria
+- ✅ **Gestor de Tarefas Avançado** — adicionar, editar, excluir, marcar como concluída, filtrar, pesquisar e tudo salvo no LocalStorage
+- 🍔 **Só Sabores — Landing Page** — página moderna, rápida e totalmente responsiva para hambúrgueria
 - 🧮 **Calculadora**
-- 📲 **Gerador de Código QR** — com API, entrada por tecla Enter e opção de download
+- 📲 **Gerador de Código QR** — com API, confirmação ao teclar Enter e opção de baixar a imagem
+- 🍔 **Burger-Delicious** — Cardápio Online
 - E outros projetos em constante evolução.
 
 ---
@@ -72,10 +74,11 @@ Gosto de aprender continuamente e unir desenvolvimento a outros conhecimentos da
 ## 📊 Minhas estatísticas
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HarodiKadima-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarodiKadima-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- Versão mais estável do serviço -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HarodiKadima-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarodiKadima-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
----
+
 
 💡 *“Código limpo é a base de qualquer solução que funciona e cresce — e conhecer redes e bancos de dados torna tudo mais sólido”*
