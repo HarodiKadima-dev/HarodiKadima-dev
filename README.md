@@ -1,13 +1,13 @@
-![Git](https://img.shields.i# Hi 👋🏾, I'm Harodi Kadima
+# Hi 👋🏾, I'm Harodi Kadima
 
-🚀 **Desenvolvedor Web | JavaScript • HTML • CSS • MySQL**  
+🚀 **Desenvolvedor Web Fullstack | JavaScript • HTML • CSS • MySQL • Node.js**  
 🇦🇴 Angola
 
 Construindo projetos práticos, páginas responsivas e sistemas que trazem soluções reais.
 
 > *"Transformar ideias em código é a melhor forma de dar vida ao que imaginamos"*
 
-Gosto de aprender continuamente e unir desenvolvimento a outros conhecimentos da área tecnológica.
+Gosto de aprender continuamente e unir desenvolvimento a outros conhecimentos da área tecnológica. Atualmente estou aprofundando conhecimentos em backend e construção de APIs.
 
 ---
 
@@ -36,8 +36,10 @@ Gosto de aprender continuamente e unir desenvolvimento a outros conhecimentos da
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-o/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🗄️ Banco de Dados
 ✅ Domínio de **MySQL**  
@@ -59,12 +61,12 @@ o/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ⚽ **Golden Hub** — vitrine de conquistas no futebol
 - 💼 **Kadima Services** — plataforma de produtos e pedidos
 - 🧑🏫 **Sistema de Cadastro Escolar** — com estrutura completa em MySQL
-- ✅ **Lista de Tarefas**
+- ✅ **Gestor de Tarefas Avançado** — com adicionar, editar, excluir, filtrar, pesquisar e armazenamento total no LocalStorage
+- 🍔 **Só Sabores — Landing Page** — página moderna e responsiva para hambúrgueria
 - 🧮 **Calculadora**
-go QR** — com API, entrada por tecla Enter e download
+- 📲 **Gerador de Código QR** — com API, entrada por tecla Enter e opção de download
+- E outros projetos em constante evolução.
 
-- **Burger-Delicious** - Cardápio Online 
--E outros projetos em constante evolução.
 ---
 
 ## 📊 Minhas estatísticas
@@ -77,6 +79,3 @@ go QR** — com API, entrada por tecla Enter e download
 ---
 
 💡 *“Código limpo é a base de qualquer solução que funciona e cresce — e conhecer redes e bancos de dados torna tudo mais sólido”*
-
-
-
