@@ -1,81 +1,105 @@
-# Hi 👋🏾, I'm Harodi Kadima
+# 👋🏾 Olá, sou Pedro José Miguel | Harodi Kadima
 
-🚀 **Desenvolvedor Web Fullstack | JavaScript • HTML • CSS • MySQL • Node.js**  
-🇦🇴 Angola
-
-Construindo projetos práticos, páginas responsivas e sistemas que trazem soluções reais.
-
-> *"Transformar ideias em código é a melhor forma de dar vida ao que imaginamos"*
-
-Gosto de aprender continuamente e unir desenvolvimento a outros conhecimentos da área tecnológica. Atualmente estou aprofundando conhecimentos em backend e construção de APIs.
+🚀 **Desenvolvedor Full Stack • Profissional de Tecnologia da Informação**
+🇦🇴 Luanda, Angola
 
 ---
 
-## 🌐 Onde me encontrar
+## 👤 Sobre mim
+
+Profissional de Tecnologia da Informação com experiência prática em **desenvolvimento Full Stack**, criação de aplicações Web, **APIs REST** e integração com bases de dados. Atuo como **desenvolvedor freelancer**, construindo soluções digitais modernas e funcionais.
+
+Possuo também sólidos **conhecimentos em Redes de Computadores**, com participação em projeto prático de configuração de rede local e formação em andamento direcionada à **certificação CCNA**.
+
+> *"Cada linha de código e cada configuração são passos rumo a soluções que transformam realidades."*
+
+---
+
+## 🛠️ Ferramentas & Tecnologias
+
+### 💻 Desenvolvimento
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="APIs REST"/>
+</p>
+
+### 🌐 Redes de Computadores
+<p>
+  <img src="https://img.shields.io/badge/Redes-00599C?style=for-the-badge&logo=cisco&logoColor=white" alt="Redes de Computadores"/>
+  <img src="https://img.shields.io/badge/TCP/IP-0078D7?style=for-the-badge" logo=internet-explorer&logoColor=white" alt="TCP/IP & Modelo OSI"/>
+  <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA — Em formação"/>
+</p>
+
+---
+
+## 📂 Projetos Desenvolvidos
+
+- 📚 **Sistema de Cadastro Escolar** — MySQL com operações CRUD
+- 📱 **Website para Comercialização de Telemóveis**
+- 🍔 **Landing Page para Hamburgueria** — Projeto entregue ao cliente
+- 🛒 **Site Catálogo de Produtos**
+- 🌱 **Landing Page para Projeto de Agricultura**
+- ✅ **Aplicação To-Do List**
+
+---
+
+## 💼 Experiência Profissional
+
+**Desenvolvedor Full Stack | Freelancer**
+- Desenvolvimento de websites e aplicações web para clientes
+- Criação de interfaces responsivas e centradas no utilizador
+- Construção de **APIs REST** com Node.js e Express.js
+- Implementação completa: Front-end, Back-end e bases de dados MySQL
+- Gestão de projetos com **Git & GitHub**
+- Levantamento de requisitos, otimização de desempenho e garantia de qualidade
+
+**Experiência em Redes**
+- 🖧 **Projeto de Configuração de Rede Local** — Organização de rede, endereçamento IPv4, DHCP, Ethernet e diagnóstico de conectividade entre dispositivos
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarodiKadima-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarodiKadima-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Integrar uma equipa de Tecnologia da Informação, aplicando conhecimentos em **desenvolvimento de software, sistemas, bases de dados e redes**, enquanto aprofundo competências em infraestrutura e tecnologia. Procuro construir uma **carreira sólida e multidisciplinar**, combinando:
+
+💻 Desenvolvimento → ⚙️ Backend → 🌐 Redes → 🔒 Futuramente: Segurança da Informação
+
+---
+
+## 🌟 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/HarodiKadima-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.facebook.com/pedrojoseking.king.7" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://tiktok.com/@kadimaharodi" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
-  <a href="https://wa.me/244933540750" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <a href="mailto:kadimaharodi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Tecnologias e conhecimentos
+<div align="center">
 
-### 💻 Desenvolvimento
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+📌 **"Aprender, construir e evoluir — todos os dias."**
 
-### 🗄️ Banco de Dados
-✅ Domínio de **MySQL**  
-✅ Comandos e estrutura **SQL**  
-✅ Primeiro trabalho prático realizado nesta área  
-✅ Projeto: **Sistema de Cadastro Escolar** — estrutura, tabelas, consultas e fluxo completo
+⭐ Se gostares do meu trabalho, deixa uma estrela nos repositórios!
 
-### 📡 Redes de Computadores — conceitos fundamentais
-✅ Endereçamento **IP e máscaras de sub‑rede**  
-✅ Noções de protocolos e funcionamento básico  
-✅ Atribuição e configuração de endereços  
-✅ Conceitos introdutórios mas sólidos para compreender infra‑estrutura
-
----
-
-## 🚀 Projetos que já desenvolvi
-
-- 📱 **Menu Africel** — lógica de navegação em JavaScript puro
-- ⚽ **Golden Hub** — vitrine de conquistas no futebol
-- 💼 **Kadima Services** — plataforma de produtos e pedidos
-- 🧑🏫 **Sistema de Cadastro Escolar** — com estrutura completa em MySQL
-- ✅ **Gestor de Tarefas Avançado** — com adicionar, editar, excluir, filtrar, pesquisar e armazenamento total no LocalStorage
-- 🍔 **Só Sabores — Landing Page** — página moderna e responsiva para hambúrgueria
-- 🧮 **Calculadora**
-- 📲 **Gerador de Código QR** — com API, entrada por tecla Enter e opção de download
-- E outros projetos em constante evolução.
-
----
-
-## 📊 Minhas estatísticas
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HarodiKadima-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarodiKadima-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-💡 *“Código limpo é a base de qualquer solução que funciona e cresce — e conhecer redes e bancos de dados torna tudo mais sólido”*
+</div>
