@@ -86,13 +86,20 @@ Estou em expansão: **a aprofundar Next.js e React.js** para construir interface
 💻 Desenvolvimento → ⚛️ React / Next.js → ⚙️ Backend → 🌐 Redes → 🔒 Cibersegurança
 
 
+
 Procuro integrar uma equipa onde possa contribuir de verdade. A minha meta é clara: dominar cada camada da tecnologia — da aplicação à infraestrutura — e construir uma carreira sólida que una desenvolvimento, conectividade e proteção de sistemas. Estou a aprender, a praticar e a crescer todos os dias.
 
 ---
 
-## 📬 Contacto
+## 📬 Onde me encontrar
 
 <p>
+  <a href="https://www.linkedin.com/in/harodi-kadima-59aba6423" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://tiktok.com/@kadimaharodi" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
   <a href="mailto:kadimaharodi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
