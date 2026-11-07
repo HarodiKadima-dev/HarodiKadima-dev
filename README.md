@@ -7,7 +7,7 @@
 
 ## 👤 Sobre Mim
 
-Com 2 anos de experiência prática, transformo necessidades reais em soluções digitais que funcionam. Construo aplicações completas — do interface ao servidor, da base de dados à publicação final. Atuo como freelancer, entregando projetos que resolvem problemas e geram valor.
+Desenvolvedor web com 2 anos de experiência prática, transformo necessidades reais em soluções digitais que funcionam. Construo aplicações completas — do interface ao servidor, da base de dados à publicação final. Atuo como freelancer, entregando projetos que resolvem problemas e geram valor.
 
 Estou em expansão: **a aprofundar Next.js e React.js** para construir interfaces ainda mais dinâmicas e robustas. Paralelamente, estudo Redes de Computadores com preparação para **CCNA**, unindo código a infraestrutura e caminhando para cibersegurança. O meu percurso é claro: criar, conectar e proteger.
 
